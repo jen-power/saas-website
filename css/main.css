@@ -133,4 +133,9 @@ header {
 
 .page-img-circle {
   border-radius: 400px;
+  width: 80%;
+}
+
+.icon {
+  width: 50%;
 }
