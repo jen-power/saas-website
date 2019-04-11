@@ -9,3 +9,25 @@ html {
 h2 {
   font-family: "Pathway Gothic One", sans-serif;
 }
+
+ul a {
+  text-decoration: none;
+}
+
+footer ul a {
+  color: #aaa;
+}
+
+header a {
+  color: #003777;
+  font-family: "Pathway Gothic One", sans-serif;
+}
+
+header a:hover,
+header a:focus {
+  color: #BC0000;
+}
+
+header {
+  border-bottom: 1px solid #aaa;
+}
