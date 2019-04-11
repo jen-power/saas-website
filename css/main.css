@@ -84,9 +84,17 @@ header {
   color: #BC0000;
 }
 
+.get-started-section {
+  background-color: #C9748B;
+}
+
 .get-started {
-  color: #713BBA;
+  color: #fff;
   font-family: "Pathway Gothic One", sans-serif;
+}
+
+.get-started-label {
+  color: #fff;
 }
 
 .get-started-email {
@@ -94,9 +102,14 @@ header {
 }
 
 .get-started-btn {
-  background-color: #003777;
+  color: #003777;
+  background-color: #fff;
   border: none;
   border-radius: 30px;
+}
+
+.get-started-btn:hover {
+  background-color: #003777;
 }
 
 .inline {
