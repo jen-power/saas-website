@@ -139,3 +139,13 @@ header {
 .icon {
   width: 50%;
 }
+
+.background-feat-1 {
+  color: #fff;
+  background-color: #713BBA;
+}
+
+.background-feat-2 {
+  color: #fff;
+  background-color: #003777;
+}
