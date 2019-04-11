@@ -11,6 +11,15 @@ h2 {
   color: #713BBA;
 }
 
+h3 {
+  font-family: "Pathway Gothic One", sans-serif;
+  color: #003777;
+}
+
+h4 {
+  font-family: "Pathway Gothic One", sans-serif;
+}
+
 header a,
 ul a {
   text-decoration: none;
@@ -46,13 +55,50 @@ header {
 
 .try-now {
   background-color: #23AF63;
-  border: none;
-  border-radius: 20px;
+  border: 3px solid #fff;
+  border-radius: 50px;
   font-family: "Pathway Gothic One", sans-serif;
 }
 
 .try-now:hover {
   background: #fff;
   border: 3px solid #23AF63;
-  border
+  color: #23AF63;
+}
+
+.simplify-entertainment,
+.connecting {
+  border-bottom: 1px solid #aaa;
+}
+
+.features-btn {
+  background-color: #BC0000;
+  border: 3px solid #fff;
+  border-radius: 40px;
+  font-family: "Pathway Gothic One", sans-serif;
+}
+
+.features-btn:hover {
+  background: #fff;
+  border: 3px solid #BC0000;
+  color: #BC0000;
+}
+
+.get-started {
+  color: #713BBA;
+  font-family: "Pathway Gothic One", sans-serif;
+}
+
+.get-started-email {
+  width: 70%;
+}
+
+.get-started-btn {
+  background-color: #003777;
+  border: none;
+  border-radius: 30px;
+}
+
+.inline {
+  display: inline;
 }
