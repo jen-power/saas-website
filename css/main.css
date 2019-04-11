@@ -6,6 +6,11 @@ html {
   font-family: Dorsa, sans-serif;
 }
 
+h1 {
+  font-family: "Pathway Gothic One", sans-serif;
+  color: #003777;
+}
+
 h2 {
   font-family: "Pathway Gothic One", sans-serif;
   color: #713BBA;
@@ -44,7 +49,7 @@ header nav a:focus {
 }
 
 header {
-  border-bottom: 1px solid #aaa;
+  border-bottom: 1px solid #e2e2e2;
 }
 
 .drummer-home {
@@ -68,7 +73,7 @@ header {
 
 .simplify-entertainment,
 .connecting {
-  border-bottom: 1px solid #aaa;
+  border-bottom: 1px solid #e2e2e2;
 }
 
 .features-btn {
@@ -114,4 +119,18 @@ header {
 
 .inline {
   display: inline;
+}
+
+.sign-up-section {
+  background-color: #23AF63;
+  font-family: "Pathway Gothic One", sans-serif;
+}
+
+.sign-up-section a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.page-img-circle {
+  border-radius: 400px;
 }
