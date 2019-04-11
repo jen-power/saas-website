@@ -8,6 +8,7 @@ html {
 
 h2 {
   font-family: "Pathway Gothic One", sans-serif;
+  color: #713BBA;
 }
 
 header a,
@@ -35,4 +36,23 @@ header nav a:focus {
 
 header {
   border-bottom: 1px solid #aaa;
+}
+
+.drummer-home {
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-right-radius: 100px;
+}
+
+.try-now {
+  background-color: #23AF63;
+  border: none;
+  border-radius: 20px;
+  font-family: "Pathway Gothic One", sans-serif;
+}
+
+.try-now:hover {
+  background: #fff;
+  border: 3px solid #23AF63;
+  border
 }
