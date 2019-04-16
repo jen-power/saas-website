@@ -12,12 +12,17 @@
 </head>
 <body>
 
-  <header class="grid grid-middle push">
-    <div class="unit xs-1 m-1-3 l-1-4">
+  <ul class="skip-links">
+  <li><a href="#main">Jump to main content</a></li>
+  <li><a href="#nav">Jump to navigation</a></li>
+</ul>
+
+  <header role ="banner" class="grid grid-middle push">
+    <div class="unit xs-1 m-1-3 l-1-4 head">
       <p class="rondo tena push-0 text-center"><a href="index.html">Rondo</a></p>
     </div>
     <div class="unit xs-1 m-2-3 l-3-4">
-      <nav class="header-nav">
+      <nav role="navigation" id="nav" tabindex="0" class="header-nav">
         <ul class="list-group-inline push-0">
           <li><a class="island giga" href="tour.html">Features</a></li>
           <li><a class="island giga" href="sign-up.html">Sign Up</a></li>
@@ -27,13 +32,13 @@
     </div>
   </header>
 
-  <main class="wrapper">
+  <main role ="main" id="main" tabindex="0" class="wrapper">
     <section class="grid push pad-b simplify-entertainment">
       <div class="unit xs-1 m-1-2 l-1-2 gutter">
         <img class="img-flex drummer-home" src="images/drummer.jpg" alt="Drummer playing on a stage">
       </div>
       <div class="unit xs-1 m-1-2 l-1-2 gutter">
-        <h2 class="not-bold">Simplify Entertainment</h2>
+        <h1 class="not-bold peta">Simplify Entertainment</h1>
         <p>The leading cloud-based talent service connecting musicians and buyers</p>
         <a class="btn try-now gutter-2 giga" href="sign-up.html">Try Now</a>
       </div>
@@ -71,7 +76,7 @@
     </section>
   </main>
 
-  <footer class="footer center-text">
+  <footer role ="contentinfo" class="footer center-text">
     <div class="unit">
       <nav class="footer-nav">
         <ul class="list-group-inline milli">

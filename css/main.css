@@ -8,12 +8,11 @@ html {
 
 h1 {
   font-family: "Pathway Gothic One", sans-serif;
-  color: #003777;
 }
 
 h2 {
   font-family: "Pathway Gothic One", sans-serif;
-  color: #713BBA;
+  color: #713bba;
 }
 
 h3 {
@@ -45,7 +44,7 @@ header nav a {
 
 header nav a:hover,
 header nav a:focus {
-  color: #BC0000;
+  color: #bc0000;
 }
 
 header {
@@ -59,7 +58,7 @@ header {
 }
 
 .try-now {
-  background-color: #23AF63;
+  background-color: #23af63;
   border: 3px solid #fff;
   border-radius: 50px;
   font-family: "Pathway Gothic One", sans-serif;
@@ -67,8 +66,8 @@ header {
 
 .try-now:hover {
   background: #fff;
-  border: 3px solid #23AF63;
-  color: #23AF63;
+  border: 3px solid #23af63;
+  color: #23af63;
 }
 
 .simplify-entertainment,
@@ -77,7 +76,7 @@ header {
 }
 
 .features-btn {
-  background-color: #BC0000;
+  background-color: #bc0000;
   border: 3px solid #fff;
   border-radius: 40px;
   font-family: "Pathway Gothic One", sans-serif;
@@ -85,12 +84,12 @@ header {
 
 .features-btn:hover {
   background: #fff;
-  border: 3px solid #BC0000;
-  color: #BC0000;
+  border: 3px solid #bc0000;
+  color: #bc0000;
 }
 
 .get-started-section {
-  background-color: #C9748B;
+  background-color: #c9748b;
 }
 
 .get-started {
@@ -122,7 +121,7 @@ header {
 }
 
 .sign-up-section {
-  background-color: #23AF63;
+  background-color: #23af63;
   font-family: "Pathway Gothic One", sans-serif;
 }
 
@@ -142,10 +141,18 @@ header {
 
 .background-feat-1 {
   color: #fff;
-  background-color: #713BBA;
+  background-color: #713bba;
 }
 
 .background-feat-2 {
   color: #fff;
   background-color: #003777;
+}
+
+.head {
+  background-color: #713bba;
+}
+
+.head a {
+  color: #fff;
 }
