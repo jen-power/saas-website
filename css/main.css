@@ -10,12 +10,12 @@ h1 {
   font-family: "Pathway Gothic One", sans-serif;
 }
 
-h2 {
+h3 {
   font-family: "Pathway Gothic One", sans-serif;
   color: #713bba;
 }
 
-h3 {
+h2 {
   font-family: "Pathway Gothic One", sans-serif;
   color: #003777;
 }
@@ -58,7 +58,7 @@ header {
 }
 
 .try-now {
-  background-color: #23af63;
+  background-color: #038e3e;
   border: 3px solid #fff;
   border-radius: 50px;
   font-family: "Pathway Gothic One", sans-serif;
@@ -121,7 +121,7 @@ header {
 }
 
 .sign-up-section {
-  background-color: #23af63;
+  background-color: #038e3e;
   font-family: "Pathway Gothic One", sans-serif;
 }
 
