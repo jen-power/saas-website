@@ -99,7 +99,6 @@ header {
 
 .get-started-label {
   color: #fff;
-  font-weight: bold;
 }
 
 .get-started-email {
@@ -161,4 +160,28 @@ header {
 caption {
   color: #fff;
   background-color: #713bba;
+}
+
+legend {
+  color: #bc0000;
+  font-family: "Pathway Gothic One", sans-serif;
+}
+
+.text-area {
+  height: 10em;
+}
+
+.btn-purp {
+    color: #fff;
+    background-color: #713bba;
+    border: 1px solid #713bba;
+    border-radius: 30px;
+  }
+
+@media only screen and (min-width: 60em) {
+
+  .first-name, .bus, .city {
+    padding-right: .5rem;
+  }
+
 }
