@@ -99,6 +99,7 @@ header {
 
 .get-started-label {
   color: #fff;
+  font-weight: bold;
 }
 
 .get-started-email {
@@ -155,4 +156,9 @@ header {
 
 .head a {
   color: #fff;
+}
+
+caption {
+  color: #fff;
+  background-color: #713bba;
 }
