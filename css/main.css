@@ -172,11 +172,15 @@ legend {
 }
 
 .btn-purp {
-    color: #fff;
-    background-color: #713bba;
-    border: 1px solid #713bba;
-    border-radius: 30px;
-  }
+  color: #fff;
+  background-color: #713bba;
+  border: 1px solid #713bba;
+  border-radius: 30px;
+}
+
+.not-pathway {
+  font-family: Raleway, sans-serif;
+}
 
 @media only screen and (min-width: 60em) {
 
