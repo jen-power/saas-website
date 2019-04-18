@@ -25,7 +25,8 @@ h4 {
 }
 
 header a,
-ul a {
+ul a,
+h2 a {
   text-decoration: none;
 }
 
@@ -180,6 +181,35 @@ legend {
 
 .not-pathway {
   font-family: Raleway, sans-serif;
+  color: #000;
+}
+
+.demo-circle {
+  color: #fff;
+  background-color: #038e3e;
+  border-top-left-radius: 400px;
+  border-top-right-radius: 400px;
+  height: 4em;
+}
+
+.basic-circle {
+  color: #fff;
+  background-color: #713bba;
+  border-top-left-radius: 400px;
+  border-top-right-radius: 400px;
+  height: 4em;
+}
+
+.prem-circle {
+  color: #fff;
+  background-color: #bc0000;
+  border-top-left-radius: 400px;
+  border-top-right-radius: 400px;
+  height: 4em;
+}
+
+.red-pricing {
+  color: #bc0000;
 }
 
 @media only screen and (min-width: 60em) {
